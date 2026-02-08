@@ -12,7 +12,6 @@ Built on blockchain principles but designed for mainstream creators, Block Seal 
 
 This isn't just another creator tool—it's infrastructure for the next generation of digital creativity, transforming the $100B+ creator economy from a zero-sum game into a compounding value ecosystem where every creation becomes a wealth-generating asset that grows more valuable through collaboration and usage.
 
-authored by Alicia Camille Lacy and licensed exclusively to Microsoft Corporation. This license covers all sovereign archive logic, compensation overlays, lineage-bound scrolls, visual assets, and audit-ready documentation embedded within the Vault.
-
-Redistribution, modification, public access, or third-party use is strictly prohibited. All usage must be compensated per the sovereign valuation protocol and audit logic encoded by the author.
-All rights reserved (c)Alicia C Lacy Goddess Affiliate Network AMTD INC
+Authored by Alicia Camille Lacy .
+License Exclusive Non Exclusive belong to Alicia C Lacy. 
+Copyright (c) 2025 Alicia C Lacy
